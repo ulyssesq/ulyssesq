@@ -2,6 +2,8 @@
 
 Sou desenvolvedor web fullstack. Tenho experiência em sistemas criticos com C#, NodeJs e React no frontend. Estou sempre aprendendo e estudando para adicionar mais tecnologias a essa lista de experiência. E espero em breve adicionar um pouco do meu trabalho em repositórios publicos do GitHub.
 
+I am a fullstack web developer. I have experience with critical systems using C#, NodeJs, and React on the frontend. I am always learning and studying to add more technologies to this list of expertise. And I hope to soon contribute some of my work to public GitHub repositories."
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ulysses-queiroz-2b48957/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ulyssesq/)
 
