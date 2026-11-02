@@ -1,36 +1,49 @@
-# Ulysses | FullStack Developer | C# | NodeJS | React
+<div align="center">
+  <h1>Hi there, I'm Ulysses Queiroz 👋</h1>
+  <h3>Senior Full Stack Software Engineer | Cloud Architect</h3>
+  <p>Building high-throughput distributed systems, event-driven architectures, and scalable web apps.</p>
 
-Sou desenvolvedor web fullstack. Tenho experiência em sistemas criticos com C#, NodeJs no backend e React no frontend. Estou sempre aprendendo e estudando para adicionar mais tecnologias a essa lista de experiência. E espero em breve adicionar um pouco do meu trabalho em repositórios publicos do GitHub.
+  <p>
+    <a href="https://linkedin.com/in/ulysses-queiroz-dev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ulyssesq@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Porto%20Alegre%2C%20Brazil-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(Remote)-22c55e?style=for-the-badge" alt="Status" />
+  </p>
+</div>
 
-I am a fullstack web developer. I have experience with critical systems using C#, NodeJs on backend, and React on the frontend. I am always learning and studying to add more technologies to this list of expertise. And I hope to soon contribute some of my work to public GitHub repositories.
+---
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ulysses-queiroz-2b48957/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ulyssesq/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/ulyssesq)
+### 👨‍💻 About Me
 
-## Habilidades
+- 🚀 **18+ years of engineering experience**, specializing in distributed systems, high-concurrency architectures, and cloud modernization.
+- 🏦 Extensive background building mission-critical solutions for Tier-1 banks, including **BTG Pactual, Itaú, and Bradesco**.
+- 🎓 **Triple Post-Graduate (MBAs):**
+  - **MBA in Information Security** (Gran Faculdade, 2026)
+  - **MBA in Full Cycle Software Architecture** (Full Cycle)
+  - **MBA in Front-End Development** (IGTI / XP Educação)
+- ☁️ **Certified Cloud Professional:**
+  - **AWS Certified Cloud Practitioner**
+  - **Oracle Cloud Infrastructure (OCI) Certified Architect Associate**
+- 🌍 Passionate about Clean Architecture, DDD, Event-Driven Systems, and 100% Remote Global Engineering.
 
-### FrontEnd
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+### 🛠️ Core Tech Stack
 
-### Outros
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | C#, .NET Core, ASP.NET Core, Node.js, TypeScript, NestJS, Fastify |
+| **Frontend** | React.js, Next.js, Micro-frontends (Webpack 5 Module Federation), Tailwind CSS, Material-UI |
+| **Cloud & DevOps** | AWS (Lambda, DynamoDB, SQS, SNS, API Gateway, S3, CloudFormation), Docker, CI/CD |
+| **Messaging & DBs** | Apache Kafka, RabbitMQ, SQL Server, PostgreSQL, DynamoDB, Redis |
+| **Architecture** | Clean Architecture, Domain-Driven Design (DDD), Hexagonal Architecture, DevSecOps |
 
-## GitHub
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ulyssesq&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+
+<div align="center">
+  <sub>Let's connect! Reach out via <a href="https://linkedin.com/in/ulysses-queiroz-dev">LinkedIn</a> or <a href="mailto:ulyssesq@gmail.com">Email</a>.</sub>
+</div>
